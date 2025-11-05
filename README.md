@@ -19,34 +19,21 @@ reposent sur un principe simple :
 
 ---
 
-## 💠 WEB — Façonner le Web moderne et futur...
+## 💠 WEB — Façonner le Web moderne
 Concevoir des expériences numériques :
 - ⚡ **Rapides** — optimisées pour la performance et la scalabilité  
 - 🎨 **Élégantes** — interfaces claires, ergonomiques et accessibles à tous  
 - 🧩 **Résilientes** — modulaires, maintenables et prêtes à évoluer  
 
----
-
-### 💻 Côté FRONT
-Pour atteindre cet équilibre, l’approche s’appuie entre autres sur l’**écosystème Vue.js**,  
-celui que je privilégie pour sa **simplicité**, sa **modularité** et son **écosystème complet**.  
-**Vue 3**, **Nuxt**, **Pinia** et **Vite** permettent de construire des interfaces réactives,  
-adaptables et légères, pensées pour évoluer avec les besoins du projet.  
-Chaque réalisation repose sur une architecture de composants claire,  
-des transitions soignées et un **design system** fondé sur des frameworks CSS  
-comme **TailwindCSS** ou **Bootstrap**, afin d’assurer cohérence et maintenabilité.
-
----
-
-### ⚙️ Côté BACK
-Donner vie à la logique applicative et à la structure invisible qui soutient chaque interface.  
-L’objectif est de construire des bases solides, performantes et sécurisées, capables de répondre aux besoins réels des utilisateurs tout en restant évolutives dans le temps.  
-
-L’approche repose sur une stack centrée autour de **JavaScript**, **TypeScript**, **Node.js** et **GraphQL**,  
-qui permet d’unifier le développement **frontend** et **backend** au sein d’un même environnement.  
-Cette cohérence technologique favorise la fluidité des échanges, la réutilisation des composants et un contrôle précis des flux de données.  
-Chaque API, chaque logique serveur est pensée pour optimiser la performance, la maintenabilité et la sécurité,  
-afin d’offrir des applications complètes et fiables, du code à l’expérience utilisateur.
+L’approche repose sur l’**écosystème Vue.js**,  
+en combinant la puissance de **Vue 3**, **Nuxt**, **Pinia** et **Vite**  
+pour créer des interfaces fluides, efficaces et adaptables.  
+Chaque projet s’appuie sur une architecture de composants claire,  
+des transitions soignées et un **design system** basé sur **TailwindCSS**  
+pour garantir cohérence et précision.  
+Sans oublier les autres technologies du Web moderne,  
+comme **JavaScript**, **TypeScript**, **Node.js** ou **GraphQL**,  
+qui enrichissent cet écosystème et renforcent la polyvalence de Fusi0n Labs.
 
 ---
 
@@ -58,8 +45,7 @@ Audit, renforcement et sécurisation des systèmes à travers :
 - 🔍 **Pentests & analyses** — identification, exploitation et correction des failles  
 - ⚙️ **Pratiques de développement sécurisé** — intégrité CI/CD, gestion des dépendances, revue de code  
 
-Chaque projet est guidé par une approche **security by design**,  
-où la performance et la protection avancent ensemble.
+Chaque projet est guidé par une approche **security by design**, où la performance et la protection avancent ensemble.
 
 ---
 
