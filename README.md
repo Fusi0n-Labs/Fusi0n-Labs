@@ -17,15 +17,11 @@ Chaque ligne de code et chaque choix d’architecture
 reposent sur un principe simple :  
 **créer des technologies élégantes, performantes et sécurisées dès leur conception.**
 
----
-
-## 💠 WEB — Façonner le Web moderne et futur...
+## 💠 **WEB — Façonner le Web moderne et futur...**
 Concevoir des expériences numériques :
 - ⚡ **Rapides** — optimisées pour la performance et la scalabilité  
 - 🎨 **Élégantes** — interfaces claires, ergonomiques et accessibles à tous  
 - 🧩 **Résilientes** — modulaires, maintenables et prêtes à évoluer  
-
----
 
 #### 💻 Côté FRONT
 Pour atteindre cet équilibre, l’approche s’appuie entre autres sur l’**écosystème Vue.js**,  
@@ -35,8 +31,6 @@ adaptables et légères, pensées pour évoluer avec les besoins du projet.
 Chaque réalisation repose sur une architecture de composants claire,  
 des transitions soignées et un **design system** fondé sur des frameworks CSS  
 comme **TailwindCSS** ou **Bootstrap**, afin d’assurer cohérence et maintenabilité.
-
----
 
 #### ⚙️ Côté BACK
 Donner vie à la logique applicative et à la structure invisible qui soutient chaque interface.  
@@ -62,7 +56,7 @@ Chaque projet est guidé par une approche **security by design**, où la perform
 
 ---
 
-## 🧭 Vision
+## 🧭 **Vision**
 > **Fusi0n Labs**, c’est la rencontre entre le développement, la sécurité et l’intelligence —  
 > pour construire des technologies plus sûres, plus intelligentes et prêtes pour l’avenir.
 
