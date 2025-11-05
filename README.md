@@ -17,7 +17,7 @@ Chaque ligne de code et chaque choix d’architecture
 reposent sur un principe simple :  
 **créer des technologies élégantes, performantes et sécurisées dès leur conception.**
 
-## 💠 **WEB — Façonner le Web moderne et futur...**
+## 💠 WEB — Façonner le Web moderne et futur...
 Concevoir des expériences numériques :
 - ⚡ **Rapides** — optimisées pour la performance et la scalabilité  
 - 🎨 **Élégantes** — interfaces claires, ergonomiques et accessibles à tous  
@@ -44,7 +44,7 @@ afin d’offrir des applications complètes et fiables, du code à l’expérien
 
 ---
 
-## 🔒 **SEC — *Semper Paratum* : Prevention · Detection · Protection**
+## 🔒 SEC — *Semper Paratum* : Prevention · Detection · Protection
 La sécurité n’est pas une option : elle fait partie intégrante du processus.
 
 Audit, renforcement et sécurisation des systèmes à travers :
@@ -56,7 +56,7 @@ Chaque projet est guidé par une approche **security by design**, où la perform
 
 ---
 
-## 🧭 **Vision**
+## 🧭 Vision
 > **Fusi0n Labs**, c’est la rencontre entre le développement, la sécurité et l’intelligence —  
 > pour construire des technologies plus sûres, plus intelligentes et prêtes pour l’avenir.
 
