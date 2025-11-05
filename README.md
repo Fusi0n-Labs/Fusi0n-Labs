@@ -19,16 +19,11 @@ reposent sur un principe simple :
 
 ---
 
-## 💠 WEB — Façonner le Web moderne
+## 💠 WEB — Façonner le Web moderne et futur...
 Concevoir des expériences numériques :
 - ⚡ **Rapides** — optimisées pour la performance et la scalabilité  
 - 🎨 **Élégantes** — interfaces claires, ergonomiques et accessibles à tous  
 - 🧩 **Résilientes** — modulaires, maintenables et prêtes à évoluer  
-
-## 💠 WEB — Façonner le Web moderne
-Créer un Web plus fluide, accessible et durable, où chaque interaction compte.  
-L’objectif est de concevoir des expériences capables d’allier **performance**, **esthétique** et **fiabilité**,  
-tout en restant simples à maintenir et agréables à utiliser.  
 
 ---
 
@@ -55,7 +50,7 @@ afin d’offrir des applications complètes et fiables, du code à l’expérien
 
 ---
 
-## 🔒 SEC — Concevoir la confiance et la défense
+## 🔒 **SEC — *Semper Paratum* : Prevention · Detection · Protection**
 La sécurité n’est pas une option : elle fait partie intégrante du processus.
 
 Audit, renforcement et sécurisation des systèmes à travers :
