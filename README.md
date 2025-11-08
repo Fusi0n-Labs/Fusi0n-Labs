@@ -65,15 +65,6 @@ où la performance et la protection avancent ensemble.
 
 ---
 
-## 🧭 Vision
-
-> **Fusi0n Labs**, c’est la rencontre entre le développement, la sécurité et l’intelligence —  
-> pour construire des technologies plus sûres, plus intelligentes et prêtes pour l’avenir.
-
-💬 *WEBSEC fut le commencement — Fusi0n Labs est l’évolution.*
-
----
-
 ## 🤝 Philosophie & Éthique
 
 Fusi0n Labs défend une vision responsable du numérique :  
@@ -107,5 +98,14 @@ et vous engagez à respecter le cadre légal applicable, notamment les **article
 Ce projet n’est **affilié à aucune entreprise, institution ou entité gouvernementale**.  
 Aucune garantie de bon fonctionnement, d’exactitude ou de sécurité n’est fournie.  
 Son contenu peut être modifié ou supprimé à tout moment sans préavis.
+
+---
+
+## 🧭 Vision
+
+> **Fusi0n Labs**, c’est la rencontre entre le développement, la sécurité et l’intelligence —  
+> pour construire des technologies plus sûres, plus intelligentes et prêtes pour l’avenir.
+
+💬 *WEBSEC fut le commencement — Fusi0n Labs est l’évolution.*
 
 ---
