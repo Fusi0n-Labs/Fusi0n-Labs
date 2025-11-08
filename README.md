@@ -74,7 +74,24 @@ où la performance et la protection avancent ensemble.
 
 ---
 
-## ⚖️ Clause de non-responsabilité
+## 🤝 Philosophie & Éthique
+
+Fusi0n Labs défend une vision responsable du numérique :  
+celle d’un écosystème ouvert, transparent et respectueux des utilisateurs.
+
+Nous croyons que la **sécurité**, la **créativité** et la **connaissance**  
+sont des leviers d’émancipation, pas de domination.
+
+Nos travaux s’inscrivent dans une démarche :
+- d’**apprentissage continu**,  
+- de **partage de savoirs**,  
+- et de **respect strict des cadres légaux et déontologiques**.
+
+Toute contribution ou réutilisation de nos projets doit suivre cette même ligne éthique.
+
+---
+
+## ⚖️ ⚠️ Clause de non-responsabilité ⚠️
 
 **Fusi0n Labs** est un laboratoire indépendant dédié à la recherche, à l’innovation et à la formation dans les domaines du développement web et de la cybersécurité.  
 Les ressources, codes, outils ou exemples publiés ici sont fournis **à des fins éducatives, expérimentales et légales uniquement**.  
