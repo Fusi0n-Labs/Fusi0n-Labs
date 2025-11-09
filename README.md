@@ -4,8 +4,6 @@
 Bienvenue chez **Fusi0n Labs**,  
 un espace où la créativité, la sécurité et l’intelligence se rencontrent.
 
----
-
 ## 🌐 Initiative principale — WEBSEC
 > *« Building the Web, securing the future. »*  
 > *(parce qu’en anglais c’est mieux!)*
@@ -16,8 +14,6 @@ là où le développement web et la cybersécurité évoluent main dans la main.
 Chaque ligne de code et chaque choix d’architecture  
 reposent sur un principe simple :  
 **créer des technologies élégantes, performantes et sécurisées dès leur conception.**
-
----
 
 ## 💠 WEB — Façonner le Web moderne et futur...
 
@@ -49,8 +45,6 @@ Cette cohérence technologique favorise la fluidité des échanges, la réutilis
 Chaque API, chaque logique serveur est pensée pour optimiser la performance, la maintenabilité et la sécurité,  
 afin d’offrir des applications complètes et fiables, du code à l’expérience utilisateur.
 
----
-
 ## 🔒 SEC — *Semper Paratum* : Prevention · Detection · Protection
 
 La sécurité n’est pas une option : elle fait partie intégrante du processus.
@@ -62,8 +56,6 @@ Audit, renforcement et sécurisation des systèmes à travers :
 
 Chaque projet est guidé par une approche **security by design**,  
 où la performance et la protection avancent ensemble.
-
----
 
 ## 🤝 Philosophie & Éthique
 
@@ -79,8 +71,6 @@ Nos travaux s’inscrivent dans une démarche :
 - et de **respect strict des cadres légaux et déontologiques**.
 
 Toute contribution ou réutilisation de nos projets doit suivre cette même ligne éthique.
-
----
 
 ## ⚖️ ⚠️ Clause de non-responsabilité ⚠️
 
@@ -98,8 +88,6 @@ et vous engagez à respecter le cadre légal applicable, notamment les **article
 Ce projet n’est **affilié à aucune entreprise, institution ou entité gouvernementale**.  
 Aucune garantie de bon fonctionnement, d’exactitude ou de sécurité n’est fournie.  
 Son contenu peut être modifié ou supprimé à tout moment sans préavis.
-
----
 
 ## 🧭 Vision
 
