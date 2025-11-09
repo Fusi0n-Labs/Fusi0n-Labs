@@ -15,7 +15,7 @@ Chaque ligne de code et chaque choix d’architecture
 reposent sur un principe simple :  
 **créer des technologies élégantes, performantes et sécurisées dès leur conception.**
 
-## 💠 WEB — Façonner le Web moderne et futur...
+## 💠 WEB — Façonner le Web moderne et futur...🔗 [Fusi0n-Labs/web-lab](https://github.com/Fusi0n-Labs/web-lab)
 
 Concevoir des expériences numériques :
 - ⚡ **Rapides** — optimisées pour la performance et la scalabilité  
@@ -45,7 +45,7 @@ Cette cohérence technologique favorise la fluidité des échanges, la réutilis
 Chaque API, chaque logique serveur est pensée pour optimiser la performance, la maintenabilité et la sécurité,  
 afin d’offrir des applications complètes et fiables, du code à l’expérience utilisateur.
 
-## 🔒 SEC — *Semper Paratum* : Prevention · Detection · Protection
+## 🔒 SEC — *Semper Paratum* : Prevention · Detection · Protection 🔗 [Fusi0n-Labs/sec-lab](https://github.com/Fusi0n-Labs/sec-lab)
 
 La sécurité n’est pas une option : elle fait partie intégrante du processus.
 
@@ -97,3 +97,13 @@ Son contenu peut être modifié ou supprimé à tout moment sans préavis.
 💬 *WEBSEC fut le commencement — Fusi0n Labs est l’évolution.*
 
 ---
+
+## 🧪 Labs
+
+Fusi0n Labs s’articule autour de deux espaces complémentaires :
+
+| 🌐 Domaine | Description | Lien |
+|-------------|-------------|------|
+| **💻 Web-Lab** | Dédié au développement **web full-stack** — front (Vue, Nuxt, Tailwind) et back (Node.js, GraphQL, API, CI/CD). | 🔗 [Fusi0n-Labs/web-lab](https://github.com/Fusi0n-Labs/web-lab) |
+| **🔐 Sec-Lab** | Focalisé sur la **cybersécurité** — wordlists, payloads, outils, hardening, pentests et writeups. | 🔗 [Fusi0n-Labs/sec-lab](https://github.com/Fusi0n-Labs/sec-lab) |
+
