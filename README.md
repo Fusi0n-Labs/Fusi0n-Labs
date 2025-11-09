@@ -4,8 +4,8 @@
 Bienvenue chez **Fusi0n Labs**,  
 un espace où la créativité, la sécurité et l’intelligence se rencontrent.
 
-## 🌐 Initiative principale — WEBSEC
-> *« Building the Web, securing the future. »*  
+## 🌐 Initiative principale — WEB/SEC/AI/QNT
+> « Building the web, securing the future — guided by AI, propelled by quantum. »
 > *(parce qu’en anglais c’est mieux!)*
 
 **WEBSEC** est la fondation de Fusi0n Labs —  
