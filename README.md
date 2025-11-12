@@ -10,10 +10,9 @@ un espace où la créativité, la sécurité et l’intelligence se rencontrent.
 
 Tout a commencé avec le **Web**, terrain d’expression et d’innovation.  
 Puis vint la **Sécurité**, devenue indispensable pour protéger ce que nous construisons.
-Aujourd’hui, **l’Intelligence Artificielle** éclaire nos décisions,  
-et le **Quantique** ouvre de nouvelles perspectives, encore insoupçonnées.  
+Aujourd’hui, **l’Intelligence Artificielle** éclaire nos décisions, et le **Quantique** ouvre de nouvelles perspectives, encore insoupçonnées.  
 
-Mais au cœur de cette évolution, la technologie n’est pas une fin — c’est une étape dans l’évolution humaine,
+Mais au cœur de cette évolution, la technologie n’est pas une fin! C’est une étape dans l’évolution humaine,
 le passage vers une intelligence partagée entre l’homme et la machine.
 Derrière chaque algorithme, chaque ligne de code, chaque système, il y a une volonté : comprendre, améliorer, protéger et élever.
 
